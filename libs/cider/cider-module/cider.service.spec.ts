@@ -1,7 +1,7 @@
 import { CiderService } from './cider.service';
 import { Test } from '@nestjs/testing';
 import { CiderModule } from './cider.module';
-import { AppleService } from "@apple-lib/apple-module/apple.service";
+import { AppleService } from '@apple-lib/apple-module/apple.service';
 
 describe('Cider service', () => {
   let appleService: AppleService;

@@ -19,7 +19,9 @@
     "forceConsistentCasingInFileNames": false,
     "noFallthroughCasesInSwitch": false,
     "paths": {
-      "@apple-lib/*": ["libs/apple/*"]
+      "@apple-lib/*": ["libs/apple/*"],
+      "@banana-lib/*": ["libs/banana/*"],
+      "@cider-lib/*": ["libs/cider/*"]
     }
   }
 }
